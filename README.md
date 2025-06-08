@@ -25,8 +25,6 @@ This project applies **Reinforcement Learning**—specifically, a **Double Deep 
 ## 🗂️ Files
 
 - `Abnormal_Traffic_Detection_DDQN.ipynb` – Main Colab notebook
-- `environment.py` (within the notebook) – Contains custom Gym environment class
-- `data` – Loaded programmatically (NSL-KDD train/test datasets)
 
 ## 📈 Results
 
